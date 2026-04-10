@@ -1,4 +1,4 @@
-# IIoT MQTT — Praktikum TF4061
+# IIoT MQTT - Praktikum TF4061
 
 > Repositori proyek praktikum **Industrial Internet of Things (IIoT)** — Teknik Fisika ITB.
 > Mengimplementasikan protokol komunikasi **MQTT** menggunakan Node.js (broker & server) dan ESP32 (IoT Node).
@@ -85,10 +85,10 @@ node broker.js
 Buka `tantangan1/chat.html` di **dua tab browser berbeda** (atau dua komputer berbeda dalam satu jaringan).
 
 **Fitur:**
-- ✅ Chat real-time antar browser
-- ✅ Nickname & topic yang bisa dikustomisasi
-- ✅ Bubble chat (pesan sendiri vs pesan orang lain)
-- ✅ Auto-reconnect saat koneksi terputus
+- Chat real-time antar browser
+- Nickname & topic yang bisa dikustomisasi
+- Bubble chat (pesan sendiri vs pesan orang lain)
+- Auto-reconnect saat koneksi terputus
 
 > **Catatan:** Ubah `hostname` di `tantangan1/chat.js` menjadi IP komputer yang menjalankan broker jika diakses dari komputer lain.
 
